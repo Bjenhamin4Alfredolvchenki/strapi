@@ -1000,21 +1000,7 @@
     core-js-pure "^3.0.0"
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.2.0", "@babel/runtime@^7.4.0", "@babel/runtime@^7.4.4", "@babel/runtime@^7.4.5", "@babel/runtime@^7.5.4", "@babel/runtime@^7.5.5", "@babel/runtime@^7.6.3", "@babel/runtime@^7.7.2", "@babel/runtime@^7.7.4", "@babel/runtime@^7.8.4", "@babel/runtime@^7.8.7":
-  version "7.8.7"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.8.7.tgz#8fefce9802db54881ba59f90bb28719b4996324d"
-  integrity sha512-+AATMUFppJDw6aiR5NVPHqIQBlV/Pj8wY/EZH+lmvRdUo9xBaz/rF3alAwFJQavvKfeOlPE7oaaDHVbcySbCsg==
-  dependencies:
-    regenerator-runtime "^0.13.4"
-
-"@babel/runtime@^7.9.2":
-  version "7.9.2"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.9.2.tgz#d90df0583a3a252f09aaa619665367bae518db06"
-  integrity sha512-NE2DtOdufG7R5vnfQUTehdTfNycfUANEtCa9PssN9O/xmTzP4E08UI797ixaei6hBEVL9BI/PsdJS5x7mWoB9Q==
-  dependencies:
-    regenerator-runtime "^0.13.4"
-
-"@babel/runtime@^7.9.6":
+"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.2.0", "@babel/runtime@^7.4.0", "@babel/runtime@^7.4.4", "@babel/runtime@^7.4.5", "@babel/runtime@^7.5.4", "@babel/runtime@^7.5.5", "@babel/runtime@^7.6.3", "@babel/runtime@^7.7.2", "@babel/runtime@^7.7.4", "@babel/runtime@^7.8.4", "@babel/runtime@^7.8.7", "@babel/runtime@^7.9.2", "@babel/runtime@^7.9.6":
   version "7.9.6"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.9.6.tgz#a9102eb5cadedf3f31d08a9ecf294af7827ea29f"
   integrity sha512-64AF1xY3OAkFHqOb9s4jpgk1Mm5vDZ4L3acHvAml+53nO1XbXLuDodsVpO4OIUsmemlUHMxNdYMNJmsvOwLrvQ==
@@ -18899,10 +18885,10 @@ vfile@^3.0.0:
     unist-util-stringify-position "^1.0.0"
     vfile-message "^1.0.0"
 
-video-react@^0.13.2:
-  version "0.13.9"
-  resolved "https://registry.yarnpkg.com/video-react/-/video-react-0.13.9.tgz#be397fc5dd7a50908368f0a47124904b87ee3307"
-  integrity sha512-nT8WjOGr3va7zJDR+OfpyqFpMrpMX3LfY3PuVyrt9ZdKDzlHgv9gQc/saAFb/pvImatzOs3+XA2GWrb5hXbTkg==
+video-react@^0.15.0:
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/video-react/-/video-react-0.15.0.tgz#82794a0f862e08c5f3ac2660747360f5ecc735cb"
+  integrity sha512-wF3BwG1qikkSX11nu0KsygxeWehzMaYpd4Uvy1sKLFnCNk794f9TPL4q/+mMmLJ8uYb5DSlgg6VraTHyihiMHQ==
   dependencies:
     "@babel/runtime" "^7.4.5"
     classnames "^2.2.6"
